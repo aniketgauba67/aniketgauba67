@@ -1,163 +1,169 @@
 <div align="center">
 
-# Aniket Gauba
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0B1F,50:4C1D95,100:8B5CF6&height=200&section=header&text=ANIKET%20GAUBA&fontSize=52&fontColor=F5F3FF&animation=fadeIn&fontAlignY=38&desc=AI%20systems%20%E2%80%A2%20automation%20%E2%80%A2%20data%20platforms&descAlignY=58&descSize=18" width="100%" alt="Aniket Gauba" />
 
-### Software Engineer · AI & Automation · Full-Stack · Data Systems
+<p>
+  <a href="https://www.aniketgauba.com/"><img src="https://img.shields.io/badge/PORTFOLIO-aniketgauba.com-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D0B1F" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aniket-gauba/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-8B5CF6?style=for-the-badge&labelColor=0D0B1F" alt="LinkedIn" /></a>
+  <a href="https://github.com/aniketgauba67"><img src="https://img.shields.io/github/followers/aniketgauba67?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=0D0B1F" alt="GitHub followers" /></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aniketgauba.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.aniketgauba.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket_Gauba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-gauba/)
-[![GitHub](https://img.shields.io/badge/GitHub-aniketgauba67-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniketgauba67)
-
-**B.S. Computer Science · Denison University**  
-*Minors in Data Analytics & Physics*
+<p>
+  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-AI_%26_AUTOMATION-8B5CF6?style=for-the-badge&labelColor=0D0B1F" alt="Software Engineer, AI and Automation" />
+  <img src="https://img.shields.io/badge/DENISON_UNIVERSITY-B.S._COMPUTER_SCIENCE-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D0B1F" alt="B.S. Computer Science, Denison University" />
+</p>
 
 </div>
 
----
+## 01 · about
 
-## About Me
+```python
+from dataclasses import dataclass
 
-I'm a software engineer building **AI-powered applications, automation workflows, full-stack platforms, and data systems**.
 
-My work spans AI infrastructure, cloud applications, robotics, and analytics — with a focus on turning complex workflows into practical, reliable software.
+@dataclass(frozen=True)
+class Aniket:
+    role:   str = "Software Engineer — AI & Automation"
+    school: str = "B.S. Computer Science · Denison University"
+    minors: tuple = ("Data Analytics", "Physics")
+    focus:  tuple = (
+        "AI infrastructure",
+        "workflow automation",
+        "full-stack platforms",
+        "data systems",
+    )
+    method: str = (
+        "map the workflow → "
+        "automate the boring half → "
+        "measure what it saved"
+    )
+```
 
----
+I build AI-powered applications, automation workflows, full-stack platforms, and data
+systems — turning complex, manual processes into software people actually rely on.
 
-## Featured Projects
+## 02 · systems
 
-### AI-Powered Pantry Inventory Platform
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/aniketgauba67/GenAI_Inventory">AI Pantry Inventory Platform</a></h3>
+      <p>Inventory platform serving <strong>20+ food pantry locations</strong>, turning uploaded photos into validated inventory records.</p>
+      <p><code>Next.js</code> <code>Python</code> <code>PostgreSQL</code> <code>AWS RDS</code> <code>Gemini API</code></p>
+      <ul>
+        <li>Image → detection → validation → inventory pipeline</li>
+        <li>Role-based dashboards, ordering, reporting, chatbot</li>
+        <li>CI/CD with production error handling</li>
+      </ul>
+      <p><a href="https://github.com/aniketgauba67/GenAI_Inventory"><img src="https://img.shields.io/badge/REPOSITORY-8B5CF6?style=flat-square&logo=github&logoColor=white&labelColor=0D0B1F" alt="Repository" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Capital Link — Audit Automation</h3>
+      <p>AI workflow converting unstructured financial audit PDFs into standardized, reviewable data.</p>
+      <p><code>n8n</code> <code>OpenAI API</code> <code>JavaScript</code> <code>Google Workspace</code></p>
+      <ul>
+        <li>Cut estimated manual processing by <strong>80–90%</strong></li>
+        <li>Projected to save <strong>~625 analyst hours annually</strong></li>
+        <li>Extraction, validation, mapping, and review stages</li>
+      </ul>
+      <p><a href="https://docs.google.com/document/d/1cnLXB6GBYjj12VM7ywrish1BqLbdaSM_EH5VFiwZmv8/edit?usp=sharing"><img src="https://img.shields.io/badge/DOCS-8B5CF6?style=flat-square&logo=googledocs&logoColor=white&labelColor=0D0B1F" alt="Documentation" /></a> <a href="https://docs.google.com/presentation/d/1AGzFCn-xPvXdRooSCGJ6bR6ZUJyziX06cN3AlAjrRxo/edit?usp=sharing"><img src="https://img.shields.io/badge/DECK-8B5CF6?style=flat-square&logo=googleslides&logoColor=white&labelColor=0D0B1F" alt="Presentation" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI Systems &amp; MCP Infrastructure</h3>
+      <p>Secure infrastructure for AI applications built around the <strong>Model Context Protocol</strong>.</p>
+      <p><code>Python</code> <code>MCP</code> <code>Pydantic</code> <code>httpx</code> <code>Pytest</code></p>
+      <ul>
+        <li>Typed MCP tools with strict validation</li>
+        <li>Auth and role-based authorization gateways</li>
+        <li>Streaming guardrails and rate limiting</li>
+        <li>Sanitized errors, deterministic mocks, integration tests</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Human-Robot Collaboration Research</h3>
+      <p>Research into strategic decision-making and collaboration between humans and robotic systems.</p>
+      <p><code>Python</code> <code>Dynamixel</code> <code>OAK-D</code> <code>Arduino</code></p>
+      <ul>
+        <li>Custom robotics: motors, cameras, sensors, haptics</li>
+        <li>Verbal, non-verbal, and haptic interaction studies</li>
+        <li>Computational social choice for preference aggregation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-AI-powered inventory platform supporting **20+ food pantry locations**, transforming uploaded photos into validated inventory records.
+```text
+                 the shape most of my work takes
 
-`Next.js` `Python` `PostgreSQL` `AWS RDS` `Gemini API` `Railway` `Vercel`
+   raw input ──►  model  ──►  validation  ──►  system of record
+  (pdf, photo)      │             │                    │
+                    │             ▼                    ▼
+                    └──────►  human review  ──►    dashboard
+                                                  + alerts
+```
 
-- Image → AI detection → validation → inventory workflow
-- Role-based dashboards, ordering, reporting, and chatbot functionality
-- Cloud deployment with CI/CD and production error handling
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/aniketgauba67/GenAI_Inventory)
-
----
-
-### Capital Link: AI Financial Audit Automation
-
-AI workflow that converts unstructured financial audit PDFs into standardized, reviewable financial data.
-
-`n8n` `OpenAI API` `JavaScript` `Google Drive` `Google Sheets`
-
-- Reduced estimated manual processing by **80–90%**
-- Projected to save approximately **625 analyst hours annually**
-- Built structured extraction, validation, mapping, and review pipelines
-
-[![Documentation](https://img.shields.io/badge/Documentation-4285F4?style=flat-square&logo=google-docs&logoColor=white)](https://docs.google.com/document/d/1cnLXB6GBYjj12VM7ywrish1BqLbdaSM_EH5VFiwZmv8/edit?usp=sharing)
-[![Presentation](https://img.shields.io/badge/Presentation-F9AB00?style=flat-square&logo=google-slides&logoColor=white)](https://docs.google.com/presentation/d/1AGzFCn-xPvXdRooSCGJ6bR6ZUJyziX06cN3AlAjrRxo/edit?usp=sharing)
-
----
-
-### AI Systems & MCP Infrastructure
-
-Secure infrastructure for AI applications built around **Model Context Protocol (MCP)**.
-
-`Python` `MCP` `Pydantic` `httpx` `Pytest`
-
-- Typed MCP tools with strict validation
-- Authentication and role-based authorization gateways
-- Streaming guardrails and rate-limiting infrastructure
-- Sanitized errors, deterministic mocks, and integration testing
-
----
-
-### Human-Robot Collaboration Research
-
-Research exploring strategic decision-making and collaboration between humans and robotic systems.
-
-`Python` `Dynamixel` `OAK-D` `Arduino` `Robotics`
-
-- Designed custom robotic systems integrating motors, cameras, sensors, and haptic feedback
-- Studied verbal, non-verbal, and haptic human-robot interaction
-- Applied computational social choice to preference aggregation and strategic manipulation
-
----
-
-## Tech Stack
+## 03 · stack
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,java,react,nextjs,fastapi,flask,postgres,docker,aws,vercel,git,githubactions&perline=8&theme=dark" alt="Languages and tools" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-### Full-Stack & Backend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### AI & Data
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-
-### Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/OPENAI-8B5CF6?style=flat-square&labelColor=0D0B1F" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/GEMINI-8B5CF6?style=flat-square&logo=googlegemini&logoColor=white&labelColor=0D0B1F" alt="Gemini" />
+  <img src="https://img.shields.io/badge/N8N-8B5CF6?style=flat-square&logo=n8n&logoColor=white&labelColor=0D0B1F" alt="n8n" />
+  <img src="https://img.shields.io/badge/PANDAS-8B5CF6?style=flat-square&logo=pandas&logoColor=white&labelColor=0D0B1F" alt="pandas" />
+  <img src="https://img.shields.io/badge/NUMPY-8B5CF6?style=flat-square&logo=numpy&logoColor=white&labelColor=0D0B1F" alt="NumPy" />
+  <img src="https://img.shields.io/badge/POWER_BI-8B5CF6?style=flat-square&labelColor=0D0B1F" alt="Power BI" />
+  <img src="https://img.shields.io/badge/RAILWAY-8B5CF6?style=flat-square&logo=railway&logoColor=white&labelColor=0D0B1F" alt="Railway" />
+  <img src="https://img.shields.io/badge/PYTEST-8B5CF6?style=flat-square&logo=pytest&logoColor=white&labelColor=0D0B1F" alt="Pytest" />
+  <img src="https://img.shields.io/badge/REACT_NATIVE-8B5CF6?style=flat-square&logo=react&logoColor=white&labelColor=0D0B1F" alt="React Native" />
+</p>
 
 </div>
 
----
-
-## More Projects
+## 04 · archive
 
 | Project | Focus |
 |---|---|
-| **PandOS** | OS kernel in C with scheduling, virtual memory, synchronization, and device I/O |
+| **PandOS** | OS kernel in C — scheduling, virtual memory, synchronization, device I/O |
 | **Healthcare Revenue-Cycle Analytics** | Claims simulation, denial-risk modeling, SHAP, FastAPI, Streamlit |
 | **IPL Score Prediction** | Statistical modeling of ball-by-ball cricket data |
-| **Williamsburg Gentrification Analysis** | 25+ years of housing, income, and demographic trend analysis |
+| **Williamsburg Gentrification Analysis** | 25+ years of housing, income, and demographic trends |
 
----
-
-## GitHub Activity
+## 05 · telemetry
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aniketgauba67&show_icons=true&hide_border=true&rank_icon=github" height="160" />
+<img height="180" src="https://streak-stats.demolab.com/?user=aniketgauba67&hide_border=true&background=0D0B1F&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=F5F3FF&sideNums=F5F3FF&dates=8A8F98" alt="Contribution streak" />
 
-<img src="https://streak-stats.demolab.com/?user=aniketgauba67&hide_border=true" height="160" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniketgauba67&theme=tokyonight" alt="Most used languages" />
 
 </div>
 
----
+## 06 · now
+
+```yaml
+role:     Software Engineer — AI & Automation
+studying: B.S. Computer Science · Denison University
+minors:   [Data Analytics, Physics]
+building: AI inventory systems, audit automation, MCP infrastructure
+learning: distributed data systems, evaluation harnesses for LLM pipelines
+open_to:  software engineering and AI/ML roles
+```
 
 <div align="center">
 
-## Let's Connect
+<br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.aniketgauba.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-gauba/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniketgauba67)
+<a href="https://www.aniketgauba.com/"><img src="https://img.shields.io/badge/LET%27S_BUILD-SOMETHING_USEFUL-8B5CF6?style=for-the-badge&labelColor=0D0B1F" alt="Let's build something useful" /></a>
 
-<br>
+<br /><br />
 
-**Building practical software at the intersection of AI, data, and real-world systems.**
+<sub><code>building practical software at the intersection of AI, data, and real systems</code></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:4C1D95,100:0D0B1F&height=110&section=footer" width="100%" alt="" />
 
 </div>
