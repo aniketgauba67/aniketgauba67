@@ -137,17 +137,7 @@ systems — turning complex, manual processes into software people actually rely
 | **IPL Score Prediction** | Statistical modeling of ball-by-ball cricket data |
 | **Williamsburg Gentrification Analysis** | 25+ years of housing, income, and demographic trends |
 
-## 05 · telemetry
-
-<div align="center">
-
-<img height="180" src="https://streak-stats.demolab.com/?user=aniketgauba67&hide_border=true&background=0D0B1F&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=F5F3FF&sideNums=F5F3FF&dates=8A8F98" alt="Contribution streak" />
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniketgauba67&theme=tokyonight" alt="Most used languages" />
-
-</div>
-
-## 06 · now
+## 05 · now
 
 ```yaml
 role:     Software Engineer — AI & Automation
