@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a software engineer building **AI-powered applications, automation workflows, full-stack platforms, and data systems**.
 
@@ -23,9 +23,9 @@ My work spans AI infrastructure, cloud applications, robotics, and analytics —
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🥫 AI-Powered Pantry Inventory Platform
+### AI-Powered Pantry Inventory Platform
 
 AI-powered inventory platform supporting **20+ food pantry locations**, transforming uploaded photos into validated inventory records.
 
@@ -39,7 +39,7 @@ AI-powered inventory platform supporting **20+ food pantry locations**, transfor
 
 ---
 
-### 🤖 Capital Link: AI Financial Audit Automation
+### Capital Link: AI Financial Audit Automation
 
 AI workflow that converts unstructured financial audit PDFs into standardized, reviewable financial data.
 
@@ -54,7 +54,7 @@ AI workflow that converts unstructured financial audit PDFs into standardized, r
 
 ---
 
-### 🔐 AI Systems & MCP Infrastructure
+### AI Systems & MCP Infrastructure
 
 Secure infrastructure for AI applications built around **Model Context Protocol (MCP)**.
 
@@ -67,7 +67,7 @@ Secure infrastructure for AI applications built around **Model Context Protocol 
 
 ---
 
-### 🦾 Human-Robot Collaboration Research
+### Human-Robot Collaboration Research
 
 Research exploring strategic decision-making and collaboration between humans and robotic systems.
 
@@ -79,7 +79,7 @@ Research exploring strategic decision-making and collaboration between humans an
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -125,7 +125,7 @@ Research exploring strategic decision-making and collaboration between humans an
 
 ---
 
-## 🛠 More Projects
+## More Projects
 
 | Project | Focus |
 |---|---|
@@ -136,7 +136,7 @@ Research exploring strategic decision-making and collaboration between humans an
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -150,7 +150,7 @@ Research exploring strategic decision-making and collaboration between humans an
 
 <div align="center">
 
-## 🤝 Let's Connect
+## Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.aniketgauba.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-gauba/)
