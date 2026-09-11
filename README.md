@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Aniket Gauba
@@ -162,4 +161,3 @@ Research exploring strategic decision-making and collaboration between humans an
 **Building practical software at the intersection of AI, data, and real-world systems.**
 
 </div>
-```
