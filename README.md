@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0B1F,50:4C1D95,100:8B5CF6&height=200&section=header&text=ANIKET%20GAUBA&fontSize=52&fontColor=F5F3FF&animation=fadeIn&fontAlignY=38&desc=AI%20systems%20%E2%80%A2%20automation%20%E2%80%A2%20data%20platforms&descAlignY=58&descSize=18" width="100%" alt="Aniket Gauba" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0B1F,50:4C1D95,100:8B5CF6&height=200&section=header&text=ANIKET%20GAUBA&fontSize=52&fontColor=F5F3FF&animation=fadeIn&fontAlignY=40&desc=AI%20systems%20%E2%80%A2%20automation%20%E2%80%A2%20data%20platforms&descAlignY=60&descSize=18" width="100%" alt="Aniket Gauba" />
 
 <p>
   <a href="https://www.aniketgauba.com/"><img src="https://img.shields.io/badge/PORTFOLIO-aniketgauba.com-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D0B1F" alt="Portfolio" /></a>
@@ -164,6 +164,6 @@ open_to:  software engineering and AI/ML roles
 
 <sub><code>building practical software at the intersection of AI, data, and real systems</code></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:4C1D95,100:0D0B1F&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8B5CF6,50:4C1D95,100:0D0B1F&height=110&section=footer" width="100%" alt="" />
 
 </div>
