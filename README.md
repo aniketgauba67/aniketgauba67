@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0B1F,50:4C1D95,100:8B5CF6&height=200&section=header&text=ANIKET%20GAUBA&fontSize=52&fontColor=F5F3FF&animation=fadeIn&fontAlignY=40&desc=AI%20systems%20%E2%80%A2%20automation%20%E2%80%A2%20data%20platforms&descAlignY=60&descSize=18" width="100%" alt="Aniket Gauba" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0B1F,50:4C1D95,100:8B5CF6&height=130&section=header" width="100%" alt="" />
+
+# Aniket Gauba
+
+**AI systems · automation · data platforms**
 
 <p>
   <a href="https://www.aniketgauba.com/"><img src="https://img.shields.io/badge/PORTFOLIO-aniketgauba.com-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D0B1F" alt="Portfolio" /></a>
