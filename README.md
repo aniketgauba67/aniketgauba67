@@ -39,7 +39,7 @@ AI-powered inventory platform supporting **20+ food pantry locations**, transfor
 
 ---
 
-### 🤖 Capital Link — AI Financial Audit Automation
+### 🤖 Capital Link: AI Financial Audit Automation
 
 AI workflow that converts unstructured financial audit PDFs into standardized, reviewable financial data.
 
